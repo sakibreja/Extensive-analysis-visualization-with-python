@@ -1,5 +1,4 @@
-# Extensive-analysis-visualization-with-python
-Extensive-analysis-visualization-with-python
+ensive-analysis-visualization-with-python
 
 
 Table of Contents
@@ -18,3 +17,5 @@ The table of contents for this project are as follows: -
 #Outlier detection
 #Conclusion
 #References
+# Extensive-analysis-visualization-with-python
+Ext

@@ -4,7 +4,6 @@ Extensive-analysis-visualization-with-python
 
 Table of Contents
 The table of contents for this project are as follows: -
-
 #Introduction to EDA
 #Objectives of EDA
 #Types of EDA
